@@ -1,0 +1,13 @@
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\Ahnq.exe.config
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\Ahnq.exe
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\Ahnq.pdb
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\NewLife.Core.dll
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\Newtonsoft.Json.dll
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\NewLife.Core.pdb
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\NewLife.Core.xml
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\bin\Release\Newtonsoft.Json.xml
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\obj\Release\Ahnq.Form1.resources
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\obj\Release\Ahnq.Properties.Resources.resources
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\obj\Release\Ahnq.csproj.GenerateResource.Cache
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\obj\Release\Ahnq.exe
+D:\MyWebSiteTest\Ahnq\Ahnq\Ahnq\obj\Release\Ahnq.pdb

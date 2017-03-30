@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StressTest>
+  <Serialnum>00001F001</Serialnum>
+  <DeviceCountPerFacility>3</DeviceCountPerFacility>
+  <StressTestPerTimes>5</StressTestPerTimes>
+  <RequestUrl>192.168.1.67:10099</RequestUrl>
+  <callbackMessage />
+  <Facilities />
+</StressTest>
