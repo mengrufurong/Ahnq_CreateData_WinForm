@@ -40,3 +40,17 @@ F:\Log\Ahnq\Ahnq\obj\Debug\Ahnq.Properties.Resources.resources
 F:\Log\Ahnq\Ahnq\obj\Debug\Ahnq.csproj.GenerateResource.Cache
 F:\Log\Ahnq\Ahnq\obj\Debug\Ahnq.exe
 F:\Log\Ahnq\Ahnq\obj\Debug\Ahnq.pdb
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\Ahnq.exe.config
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.exe
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.pdb
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\Ahnq.exe
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\Ahnq.pdb
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\NewLife.Core.dll
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\NewLife.Core.pdb
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\NewLife.Core.xml
+C:\Users\chenq\Desktop\Ahnq\Ahnq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.csprojResolveAssemblyReference.cache
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.Form1.resources
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.Properties.Resources.resources
+C:\Users\chenq\Desktop\Ahnq\Ahnq\obj\Debug\Ahnq.csproj.GenerateResource.Cache
